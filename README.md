@@ -1,5 +1,7 @@
 ☔ Proyek: K-Means Clustering Curah Hujan Kota Bandar Lampung 2020–2024
+
 📌 Deskripsi Proyek
+
 Proyek ini bertujuan untuk menganalisis pola curah hujan harian di Provinsi Lampung selama periode tahun 2020 hingga 2024 menggunakan teknik K-Means Clustering. Dengan pendekatan ini, data curah hujan dikelompokkan berdasarkan kemiripan intensitasnya, sehingga dapat memberikan wawasan mengenai distribusi dan variabilitas hujan dalam jangka waktu tertentu.
 
 📊 Data yang Digunakan
